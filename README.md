@@ -17,7 +17,7 @@ Tampilan AVD
 
 Tampilan di Android Phone
 
-![Tampilan Android](SS/WhatsApp Image 2021-03-17 at 4.40.58 PM.jpeg)
+![Android](SS/WhatsApp Image 2021-03-17 at 4.40.58 PM.jpeg)
 
 User Interface dan Activity
 
