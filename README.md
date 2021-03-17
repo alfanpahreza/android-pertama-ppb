@@ -15,6 +15,10 @@ Tampilan AVD
 
 ![Tampilan AVD](SS/Screenshot_1615962001.png) ![Hello World!](SS/Screenshot_1615962008.png)
 
+Tampilan di Android Phone
+
+![Tampilan Android](SS/WhatsApp Image 2021-03-17 at 4.40.58 PM.jpeg)
+
 User Interface dan Activity
 
 ![Simple UI](SS/Screenshot_1615965278.png) ![Attributes](SS/Screenshot_1615965286.png) 
